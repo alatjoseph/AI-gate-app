@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:front_end/Presentation/registrationpage.dart';
+import 'package:front_end/Presentation/signup.dart';
 import 'package:front_end/auth/authentication.dart';
-import 'package:front_end/registrationpage.dart';
-import 'package:front_end/signup.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class LoginPage extends StatefulWidget {
